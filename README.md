@@ -7,6 +7,8 @@ An easy to use SwiftUI full screen modal view. It works by stacking an optional 
 
 ## Usage
 
+An example project can be found in the `Example` folder.
+
 1. Add a `fullScreenModalHandling` view modifier to your main view.
 
 ```swift
