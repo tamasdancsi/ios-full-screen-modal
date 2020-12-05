@@ -5,6 +5,10 @@ An easy to use SwiftUI full screen modal view. It works by stacking an optional 
 * `displayContent`: you can send an `AnyView` object which will be presented modally
 * `close`: you can close your modal by sending a request on this one
 
+## Integration
+
+Select you main project. On the Swift packages tab, tap on the `+` icon to add a new dependency. Enter `git@github.com:tamasdancsi/ios-full-screen-modal.git`, hit next twice and you're ready to go.
+
 ## Usage
 
 An example project can be found in the `Example` folder.
