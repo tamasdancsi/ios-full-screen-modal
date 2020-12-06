@@ -7,7 +7,7 @@ An easy to use SwiftUI full screen modal view. It works by stacking an optional 
 
 ## Integration
 
-Select you main project. On the Swift packages tab, tap on the `+` icon to add a new dependency. Enter `git@github.com:tamasdancsi/ios-full-screen-modal.git`, hit next twice and you're ready to go.
+Select your main project. On the Swift packages tab, tap on the `+` icon to add a new dependency. Enter `git@github.com:tamasdancsi/ios-full-screen-modal.git`, hit next twice and you're ready to go.
 
 ## Usage
 
